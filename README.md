@@ -1,4 +1,4 @@
-# DevToysMac
+# DevToysMac test
 
 This is the mac app version of [DevToys or Windows](https://github.com/veler/DevToys)!
 
